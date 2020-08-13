@@ -1,0 +1,16 @@
+{
+  "name": "rainviewer-electron",
+  "version": "1.0.0",
+  "description": "Rain Viewer wrapped with Electron",
+  "main": "main.js",
+  "repository": "https://github.com/DRFR0ST/rainviewer-electron",
+  "author": "Mike Eling <mike.eling97@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^9.2.0"
+  }
+}
